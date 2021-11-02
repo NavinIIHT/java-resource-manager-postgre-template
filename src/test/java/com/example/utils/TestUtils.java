@@ -33,7 +33,7 @@ public class TestUtils {
 			
 			testResult="";
 			
-			xmlFile = new File("./Notes-app-boot-mysql.xml");
+			xmlFile = new File("./resource-manager-postgre.xml");
 			xmlFile.delete();
 			
 			businessTestFile = new File("./output_revised.txt");
